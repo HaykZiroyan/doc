@@ -1,0 +1,10 @@
+.rows{
+    margin: 0 auto;
+    width: 85%;
+}
+.cols {
+    text-decoration: none;
+}
+.cols:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+
+.buttonPlace {
+    /* width: 310px; */
+    /* position:relative; */
+    width: 100%;
+}
+.buts {
+    margin-left: 2%;
+    width: 25%;
+}
+.hide {
+    display: none;
+}

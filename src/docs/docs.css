@@ -1,0 +1,16 @@
+.srch {
+    background-color: #006991;
+    border-radius: 20px;
+    padding: .1vw 2vw;
+    padding-bottom: .2vw;
+}
+.imgs {
+    width: 14px;
+    height: 14px;
+    
+}
+.containerdoc {
+    width: 100%;
+    padding: 0;
+    margin-top: 100px;
+}

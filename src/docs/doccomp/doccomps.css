@@ -1,0 +1,16 @@
+.doccomp {
+    width: 22.77%;
+    display: inline-block;
+    margin: 0 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 6px 0 rgba(0,0,0,.75);
+    margin-bottom: 5vw;
+}
+.docimg {
+    width: 100%;
+    border-radius: 8px;
+    z-index: 2;
+    position: relative;
+    top: -10px;
+    height: 270px;
+}
